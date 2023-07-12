@@ -1,4 +1,4 @@
-## 👋 Bem-vindo ao Projeto de Desafios de Lógica!**
+## 👋 Bem-vindo ao Projeto de Desafios de Lógica!
 
 Este projeto é uma prática para estudos de lógica de programação, onde foram resolvidos 13 exercícios desafiadores. Embora os exercícios estejam listados no site [Python Brasil Wiki - Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial), eles foram implementados em Java para aprimorar as habilidades nessa linguagem. Vamos dar uma olhada nos desafios superados!
 
